@@ -1,4 +1,9 @@
 a:hover{
-    color:blueviolet;
-    background-color:chartreuse;
+    background-color: violet;
+    color:white;
+}
+p::first-line{
+    color:brown;
+    font-size:25px;
+
 }
